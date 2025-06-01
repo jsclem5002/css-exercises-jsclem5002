@@ -1,0 +1,13 @@
+.needy-button-black {
+    background-color: black;
+    color: white;
+}
+
+.needy-button-yellow {
+    background-color: yellow;
+}
+
+.needy-button-black.needy-button-yellow {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
